@@ -195,5 +195,15 @@
       "profilePic": "https://randomuser.me/api/portraits/men/6.jpg",
       "storyImage": "https://picsum.photos/id/1021/400/600"
     }
+  ],
+  "following":[
+    {
+      "id": 5,
+      "userId": "mike_tyson"
+    },
+    {
+      "id": 6,
+      "userId": "lisa_rose"
+    }
   ]
 }
